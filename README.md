@@ -17,3 +17,4 @@
 ### Prototipo en Figma:
 [Guías de diseño](https://www.figma.com/file/uMeFsC5ZxuG9gnF2xNvJid/Gu%C3%ADas-de-dise%C3%B1o?node-id=0%3A1)
 
+Revisado :heavy_check_mark:
